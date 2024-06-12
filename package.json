@@ -1,0 +1,14 @@
+{
+  "name": "solem",
+  "version": "1.0.0",
+  "description": "discord bot of the year",
+  "main": "index.js",
+  "author": "Ems Rudas Tejor",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.4.0"
+  }
+}
